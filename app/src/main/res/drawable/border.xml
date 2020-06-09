@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Resource : https://stackoverflow.com/questions/38787794/android-adding-border-around-textview#:~:text=To%20add%20a%20border%20to,the%20border%20width%20and%20color.-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+    <stroke
+        android:width="1sp"
+        android:color="#808080" />
+</shape>
